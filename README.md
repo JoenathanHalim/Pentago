@@ -1,2 +1,2 @@
 # Pentago
-PS0001 - Introduction to Computational Thinking Project
+Implementation of Pentago board game with AI computer.
