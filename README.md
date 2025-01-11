@@ -1,2 +1,2 @@
 # Pentago
-Implementation of Pentago board game with AI computer or against other human players.
+Implementation of Pentago Board Game in Python 
